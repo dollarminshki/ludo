@@ -1,4 +1,4 @@
-# 🎲 Classic Ludo 3D
+# 🎲 minshki Classic Ludo 3D
 
 A modern 3D Ludo board game built with Three.js - all in a single HTML file!
 
